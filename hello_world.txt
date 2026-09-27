@@ -1,0 +1,2 @@
+Questo è un testo aggiunto per provare git
+Proviamo git status e git add .
